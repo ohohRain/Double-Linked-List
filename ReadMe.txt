@@ -1,1 +1,2 @@
-Designed a simulated file system & terminal in C++ using object oriented design patterns that allows users to add, edit, rename, display, & delete public & password protected files using Unix style command line arguments.
+Built the Doubly Linked List data structure from scratch & a list iterator in C++ using object oriented programming concepts, pointers, references, copy control, explicit memory management, & C++ standard template libraries.
+
